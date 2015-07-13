@@ -13,7 +13,7 @@ import org.kohsuke.github.GitHub;*/
 
 public class TestGitHubClient {
 
-	/* Ignore the class public static void main(String[] args) {
+	/* Ignore the class  unod the changes public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		GitHub github;
 		//Git git = Git.open(new File(""));
